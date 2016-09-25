@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class StringObserve {
 
     public static void main(String[] args) {
         String str1 = "hello world";
